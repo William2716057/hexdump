@@ -4,6 +4,9 @@ A simple JavaScript script that generates a hexdump of a file. It displays the h
 
 
 Generates a hexdump of a file
+
 Displays hexadecimal representation of file content
+
 Shows corresponding ASCII characters
+
 Supports both command-line argument and interactive file path input
